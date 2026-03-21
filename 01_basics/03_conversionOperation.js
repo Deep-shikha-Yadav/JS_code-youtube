@@ -27,10 +27,15 @@ let str3=str1+str2
 console.log(str3)//we can also add string
 
 //IMPORTANT
-console.log("1"+"2")  //12
-console.log("1"+2)  //12
-console.log(1+2+"2")  //32
-console.log(1+"2"+2)  //122
-console.log("1"+2+2)  //122
+// console.log("1"+"2")  //12
+// console.log("1"+2)  //12
+// console.log(1+2+"2")  //32
+// console.log(1+"2"+2)  //122
+// console.log("1"+2+2)  //122
+
+let container=100
+console.log(++container)
+console.log(container++)
+
 
 
